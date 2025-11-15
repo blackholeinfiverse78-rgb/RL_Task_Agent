@@ -1,0 +1,22 @@
+[
+  {"task_id": 1, "name": "Fix bug", "status": "done", "reward": 1},
+  {"task_id": 2, "name": "Write report", "status": "pending", "reward": 0},
+  {"task_id": 3, "name": "Data cleanup", "status": "pending", "reward": 0},
+  {"task_id": 4, "name": "Update UI", "status": "pending", "reward": 0},
+  {"task_id": 5, "name": "Test feature", "status": "done", "reward": 0.8},
+  {"task_id": 6, "name": "Code review", "status": "pending", "reward": 0},
+  {"task_id": 7, "name": "Deploy app", "status": "pending", "reward": 0},
+  {"task_id": 8, "name": "Fix layout", "status": "in_progress", "reward": 0.3},
+  {"task_id": 9, "name": "Add tests", "status": "pending", "reward": 0},
+  {"task_id": 10, "name": "Write docs", "status": "pending", "reward": 0},
+  {"task_id": 11, "name": "Setup DB", "status": "done", "reward": 0.9},
+  {"task_id": 12, "name": "Optimize code", "status": "pending", "reward": 0},
+  {"task_id": 13, "name": "Security check", "status": "pending", "reward": 0},
+  {"task_id": 14, "name": "User testing", "status": "in_progress", "reward": 0.2},
+  {"task_id": 15, "name": "Bug fixes", "status": "pending", "reward": 0},
+  {"task_id": 16, "name": "Performance tune", "status": "pending", "reward": 0},
+  {"task_id": 17, "name": "API design", "status": "done", "reward": 0.7},
+  {"task_id": 18, "name": "Database migrate", "status": "pending", "reward": 0},
+  {"task_id": 19, "name": "Monitor setup", "status": "pending", "reward": 0},
+  {"task_id": 20, "name": "Final deploy", "status": "pending", "reward": 0}
+]

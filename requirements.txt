@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+requests
+numpy
+langchain
+langchain-openai
+langchain-community
+openai
+transformers
+torch
+google-generativeai
+# sqlite3 is built-in
